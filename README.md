@@ -16,7 +16,7 @@
 
 I am a Python Developer from Russia.
 
-- I am learning Python, SQL and Flask for back-end development.
+- I am learning Python, PostgreSQL and FastAPI for back-end development.
 
 - Skillfully I use the terminal and git.
 
